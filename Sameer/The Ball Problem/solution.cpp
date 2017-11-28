@@ -48,7 +48,7 @@ ll t, n, m, u, v, q, r, ql, qr, k, l, s, w, z, x, y, d, p, c, b;
 const int N = 2e5 + 500;
 const int SN = 300;
 const int NN = 1e4 + 4;
-const long long mod = 1e9 + 7;
+const long long mod = 1000;
 const long long INF = 1LL << 52LL;
 typedef long long LL;
 const double PI = 4*atan(1);
